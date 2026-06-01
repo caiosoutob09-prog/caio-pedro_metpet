@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700&display=swap');
+
+.bg-blur {
+    background-color: rgba(139, 94, 60, 0.8);
+    backdrop-filter: blur(10px);
+}
+
+.navbar-bg {
+    background-image: url('navbar-bg.png');
+    background-size: cover;
+    background-position: center;
+}
+
+.font-custom {
+    font-family: 'Outfit', sans-serif;
+}

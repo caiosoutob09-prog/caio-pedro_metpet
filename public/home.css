@@ -1,0 +1,43 @@
+.carousel-item {
+    height: 400px;
+    margin-bottom: 20px;
+}
+.bg-marrom {
+    background-color: #8B5E3C;
+}
+
+/* Criando o botão personalizado */
+.btn-adventure {
+  background-color: #8B5E3C;
+  border-color: #8B5E3C;
+  color: #FAF7F2;
+  transition: all 0.3s ease;
+}
+.btn-adventure:hover {
+  background-color: #724d31;
+  border-color: #724d31;
+  color: #FAF7F2;
+}
+
+.card {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+}
+
+.card-img-top {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    height: 200px;
+    object-fit: cover;
+}
+
+#promojunina:hover {
+    transform: scale(1.05);
+    transition: transform 0.3s ease;
+}
