@@ -14,3 +14,12 @@
 .font-custom {
     font-family: 'Outfit', sans-serif;
 }
+
+.color-custom {
+    color: #8B5E3C;
+}
+
+.logo {
+    width: 50px;
+    height: 50px;
+}

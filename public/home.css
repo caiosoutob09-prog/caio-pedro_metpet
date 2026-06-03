@@ -13,6 +13,18 @@
   color: #FAF7F2;
   transition: all 0.3s ease;
 }
+.btn-outline-adventure {
+  background-color: rgb(139, 94, 60);
+  border-color: #8B5E3C;
+  color: #FAF7F2;
+  transition: all 0.3s ease;
+  
+}
+.btn-adventure:hover {
+  background-color: #8B5E3C;
+  border-color: #8B5E3C;
+  color: #FAF7F2;
+}
 .btn-adventure:hover {
   background-color: #724d31;
   border-color: #724d31;
@@ -41,3 +53,7 @@
     transform: scale(1.05);
     transition: transform 0.3s ease;
 }
+
+.border-adventure {
+    border: 3px solid #8B5E3C;
+    border-radius: 10px;}

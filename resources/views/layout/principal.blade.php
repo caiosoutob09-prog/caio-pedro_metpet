@@ -18,13 +18,12 @@
 
 </head>
 
-<body style="padding-top: 55px; background-color: #FAF7F2; color: #8B5E3C;">
+<body style="padding-top: 66px; background-color: #FAF7F2; color: #8B5E3C;">
     <nav class="navbar navbar-expand-lg  text-light  navbar-bg  fixed-top">
         <div class="container-fluid">
 
             <a class="navbar-brand font-custom d-flex align-items-center text-light" href="{{ route('home') }}">
-                <img src="Lgompwt_sf.png" width="30" height="24" class="me-2">
-                Met<b>PETs</b>
+                <img src="logo_Mpet_wt_sf.png" class="logo me-2" style="height: 60px; width: auto; max-width: 150px; object-fit: contain; margin-top: -10px; margin-bottom: -10px; vertical-align: middle;">
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup"
                 aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
